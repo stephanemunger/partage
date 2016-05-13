@@ -1,0 +1,11 @@
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned
+
+Install-Module AzureRM
+
+Install-AzureRM
+
+Install-Module Azure
+
+Import-AzureRM
+
+Import-Module Azure
